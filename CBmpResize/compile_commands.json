@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/modolet/jcs/CBmpResize/build/linux-debug",
+  "command": "/usr/sbin/cc   -lm -g -std=gnu99 -o CMakeFiles/CBmpResize.dir/src/BMPReader.c.o -c /home/modolet/jcs/CBmpResize/src/BMPReader.c",
+  "file": "/home/modolet/jcs/CBmpResize/src/BMPReader.c"
+},
+{
+  "directory": "/home/modolet/jcs/CBmpResize/build/linux-debug",
+  "command": "/usr/sbin/cc   -lm -g -std=gnu99 -o CMakeFiles/CBmpResize.dir/src/main.c.o -c /home/modolet/jcs/CBmpResize/src/main.c",
+  "file": "/home/modolet/jcs/CBmpResize/src/main.c"
+},
+{
+  "directory": "/home/modolet/jcs/CBmpResize/build/linux-debug",
+  "command": "/usr/sbin/cc   -lm -g -std=gnu99 -o CMakeFiles/CBmpResize.dir/src/matcalc.c.o -c /home/modolet/jcs/CBmpResize/src/matcalc.c",
+  "file": "/home/modolet/jcs/CBmpResize/src/matcalc.c"
+}
+]
